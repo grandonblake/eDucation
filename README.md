@@ -12,7 +12,7 @@ The system “eDucation” is intended to provide an online platform that is acc
 - As the programmers will be using MySQL to store the database information, data handling will be more efficient and organized. It will eliminate the fear of getting the information lost, screwing up data, and getting exposed to unauthorized access. 
 
 ## Project Screenshots:
-<img src="/images/HomePage.png" width=50% height=50%>
+<img src="/screenshots/HomePage.png" width=50% height=50%>
 
 ### Student
 <img src="/screenshots/StudentSignIn.png" width=50% height=50%>
