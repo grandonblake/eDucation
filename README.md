@@ -1,5 +1,5 @@
 # eDucation
-A simple locally-hosted School Management System using Java and MySQL.
+A simple locally-hosted School Management System using Java MySQL while implementing the Model-View-Controller Architecture.
 
 This project was a group effort that was submitted on Oct 14, 2021 as a Final Project requirement during my 2nd year in College.
 
