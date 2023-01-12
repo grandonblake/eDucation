@@ -18,7 +18,7 @@ The system “eDucation” is intended to provide an online platform that is acc
 <img src="/screenshots/StudentSignIn.png" width=50% height=50%>
 <img src="/screenshots/StudentSignUp.png" width=50% height=50%>
 <img src="/screenshots/StudentSignUpDetails.png" width=50% height=50%>
-<img src="/screenshots/StudentMainMenu.png" width=20% height=20%>
+<img src="/screenshots/StudentMainMenu.png" width=10% height=10%>
 <img src="/screenshots/StudentProfile.png" width=50% height=50%>
 <img src="/screenshots/StudentSetSchedule.png" width=50% height=50%>
 <img src="/screenshots/StudentCalendar.png" width=50% height=50%>
@@ -26,7 +26,7 @@ The system “eDucation” is intended to provide an online platform that is acc
 
 ### Instructor:
 <img src="/screenshots/InstructorSignIn.png" width=50% height=50%>
-<img src="/screenshots/InstructorMainMenu.png" width=50% height=50%>
+<img src="/screenshots/InstructorMainMenu.png" width=10% height=10%>
 <img src="/screenshots/InstructorProfile.png" width=50% height=50%>
 <img src="/screenshots/InstructorSeeSchedule.png" width=50% height=50%>
 <img src="/screenshotss/InstructorSeeScheduleStudentList.png" width=50% height=50%>
