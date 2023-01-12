@@ -10,3 +10,25 @@ The system “eDucation” is intended to provide an online platform that is acc
 - Teachers have access and can view the student’s list easily.
 - Teachers can access schedules, where they can see their availability in terms of time and be able to manage their schedule ahead of them.
 - As the programmers will be using MySQL to store the database information, data handling will be more efficient and organized. It will eliminate the fear of getting the information lost, screwing up data, and getting exposed to unauthorized access. 
+
+## Project Screenshots:
+<img src="/images/HomePage.png" width=50% height=50%>
+
+### Student
+<img src="/images/StudentSignIn.png" width=50% height=50%>
+<img src="/images/StudentSignUp.png" width=50% height=50%>
+<img src="/images/StudentSignUpDetails.png" width=50% height=50%>
+<img src="/images/StudentMainMenu.png" width=50% height=50%>
+<img src="/images/StudentProfile.png" width=50% height=50%>
+<img src="/images/StudentSetSchedule.png" width=50% height=50%>
+<img src="/images/StudentCalendar.png" width=50% height=50%>
+<img src="/images/StudentSeeGrades.png" width=50% height=50%>
+
+### Instructor:
+<img src="/images/InstructorSignIn.png" width=50% height=50%>
+<img src="/images/InstructorMainMenu.png" width=50% height=50%>
+<img src="/images/InstructorProfile.png" width=50% height=50%>
+<img src="/images/InstructorSeeSchedule.png" width=50% height=50%>
+<img src="/images/InstructorSeeScheduleStudentList.png" width=50% height=50%>
+<img src="/images/InstructorEncodeGrades.png" width=50% height=50%>
+<img src="/images/InstructorEncodeGradeStudentList.png" width=50% height=50%>
