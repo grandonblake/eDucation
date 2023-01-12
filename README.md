@@ -15,20 +15,20 @@ The system “eDucation” is intended to provide an online platform that is acc
 <img src="/images/HomePage.png" width=50% height=50%>
 
 ### Student
-<img src="/images/StudentSignIn.png" width=50% height=50%>
-<img src="/images/StudentSignUp.png" width=50% height=50%>
-<img src="/images/StudentSignUpDetails.png" width=50% height=50%>
-<img src="/images/StudentMainMenu.png" width=50% height=50%>
-<img src="/images/StudentProfile.png" width=50% height=50%>
-<img src="/images/StudentSetSchedule.png" width=50% height=50%>
-<img src="/images/StudentCalendar.png" width=50% height=50%>
-<img src="/images/StudentSeeGrades.png" width=50% height=50%>
+<img src="/screenshots/StudentSignIn.png" width=50% height=50%>
+<img src="/screenshots/StudentSignUp.png" width=50% height=50%>
+<img src="/screenshots/StudentSignUpDetails.png" width=50% height=50%>
+<img src="/screenshots/StudentMainMenu.png" width=50% height=50%>
+<img src="/screenshots/StudentProfile.png" width=50% height=50%>
+<img src="/screenshots/StudentSetSchedule.png" width=50% height=50%>
+<img src="/screenshots/StudentCalendar.png" width=50% height=50%>
+<img src="/screenshots/StudentSeeGrades.png" width=50% height=50%>
 
 ### Instructor:
-<img src="/images/InstructorSignIn.png" width=50% height=50%>
-<img src="/images/InstructorMainMenu.png" width=50% height=50%>
-<img src="/images/InstructorProfile.png" width=50% height=50%>
-<img src="/images/InstructorSeeSchedule.png" width=50% height=50%>
-<img src="/images/InstructorSeeScheduleStudentList.png" width=50% height=50%>
-<img src="/images/InstructorEncodeGrades.png" width=50% height=50%>
-<img src="/images/InstructorEncodeGradeStudentList.png" width=50% height=50%>
+<img src="/screenshots/InstructorSignIn.png" width=50% height=50%>
+<img src="/screenshots/InstructorMainMenu.png" width=50% height=50%>
+<img src="/screenshots/InstructorProfile.png" width=50% height=50%>
+<img src="/screenshots/InstructorSeeSchedule.png" width=50% height=50%>
+<img src="/screenshotss/InstructorSeeScheduleStudentList.png" width=50% height=50%>
+<img src="/screenshots/InstructorEncodeGrades.png" width=50% height=50%>
+<img src="/screenshots/InstructorEncodeGradeStudentList.png" width=50% height=50%>
